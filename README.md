@@ -2,6 +2,8 @@
 
 > The Phodal's Blog Application in GitHub
 
+Pattern: **Editing Publishing Coding Seperate**
+
 ## Stack
 
  - Serverless
@@ -38,3 +40,4 @@ Document Example:
  - Custom Jekyll UI/Serverless Upload to S3
  - Platform ???
  - PageView Count
+ - JSON to YAML?
